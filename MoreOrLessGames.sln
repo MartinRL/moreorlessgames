@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreOrLessGames", "MoreOrLessGames\MoreOrLessGames.csproj", "{B8F19AB0-F259-4755-9885-D2CEFFFDCCAB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrams", "Diagrams", "{7FFB7350-F015-4F12-8996-0929B6602D0F}"
+	ProjectSection(SolutionItems) = preProject
+		FaST_legend.mmd = FaST_legend.mmd
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,5 +23,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DD98D4A-BE24-47D5-AE86-5E98528F4881}
 	EndGlobalSection
 EndGlobal
