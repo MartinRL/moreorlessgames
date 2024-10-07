@@ -1,4 +1,4 @@
-﻿category;comparison_question;alt1;alt1_amount;alt2;alt2_amount;unit;difficulty_level
+﻿kategori;jämförelsefråga;alt1;alt1_mängd;alt2;alt2_mängd;enhet;svårighetsgrad
 music;Vilken svensk artist har sålt flest album genom tiderna, {alt1} eller {alt2}?;ABBA;400000000;Roxette;75000000;album;2
 history;Vilken svensk kung abdikerade först, {alt1} eller {alt2}?;Gustav Vasa;1560;Karl XII;1718;år;3
 food;Vilken dryck hade störst årlig konsumtion per capita i Sverige 2023, {alt1} eller {alt2}?;kaffe;3200;mjölk;2500;gram;2
@@ -49,3 +49,4 @@ business;Vilket företag grundades först, {alt1} eller {alt2}?;IKEA;1943;H&M;19
 geography;Vilken svensk stad har flest invånare 2023, {alt1} eller {alt2}?;Göteborg;600000;Malmö;350000;invånare;2
 inventions;Vilken uppfinning kom först, {alt1} eller {alt2}?;Tändstickan;1855;Glödlampan;1879;år;3
 music;Vem fick bäst betalt av {alt1} när han sålde 50% av sin katalog 2021, eller {alt2} när hon sålde en majoritetsandel av sin katalog 2020?;Niel Young;150;Stevie Nicks;100;miljoner US$;4
+mix;Vilka är flest av de {alt1} och ringarna I {alt2}s logotyp?;olympiska ringarna;5;Audi;4;antal;2
