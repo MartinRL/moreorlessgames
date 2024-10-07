@@ -1,4 +1,4 @@
-﻿category;comparison_question;alt1;alt1_amount;alt2;alt2_amount;unit;difficulty
+﻿category;comparison_question;alt1;alt1_amount;alt2;alt2_amount;unit;difficulty_level
 music;Vilken svensk artist har sålt flest album genom tiderna, {alt1} eller {alt2}?;ABBA;400000000;Roxette;75000000;album;2
 history;Vilken svensk kung abdikerade först, {alt1} eller {alt2}?;Gustav Vasa;1560;Karl XII;1718;år;3
 food;Vilken dryck hade störst årlig konsumtion per capita i Sverige 2023, {alt1} eller {alt2}?;kaffe;3200;mjölk;2500;gram;2
@@ -25,12 +25,12 @@ cars;Vilken bil kunde fås i flest färger 2023, {alt1} eller {alt2}?;Volvo XC90
 cars;Vilken bil vägde mest 2023, {alt1} eller {alt2}?;Tesla Model X;2469;Audi e-tron;2565;gram;2
 cars;Vilken bil fick dra tyngst 2023, {alt1} eller {alt2}?;Volvo V90;2400;BMW X5;2700;gram;2
 cars;Vilken bil hade störst bagagerum 2023, {alt1} eller {alt2}?;Kia Sorento;813;Volkswagen ID.4;543;liter;2
-cars;Vilken bil drog minst kWh per mil 2023, {alt1} eller {alt2}?;Tesla Model 3;16;Nissan Leaf;18;kWh per 10 mil;2
-movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Tillsammans (2000);7.5;Fucking Åmål (1998);7.6;tiogradig skala;3
-movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;En man som heter Ove (2015);7.7;Så som i himmelen (2004);7.5;tiogradig skala;3
-movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Jalla! Jalla! (2000);6.9;Kopps (2003);6.7;tiogradig skala;3
-movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Midsommar (2019);7.1;Låt den rätte komma in (2008);7.9;tiogradig skala;4
-movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Den enfaldige mördaren (1982);7.5;Utvandrarna (1971);8.0;tiogradig skala;4
+cars;Vilken bil förbrukar färst kWh per mil, {alt1} eller {alt2} (2023)?;Tesla Model 3;16;Nissan Leaf;18;kWh per 10 mil;2
+movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Tillsammans (2000);7,5;Fucking Åmål (1998);7.6;tiogradig skala;3
+movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;En man som heter Ove (2015);7,7;Så som i himmelen (2004);7.5;tiogradig skala;3
+movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Jalla! Jalla! (2000);6,9;Kopps (2003);6.7;tiogradig skala;3
+movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Midsommar (2019);7,1;Låt den rätte komma in (2008);7.9;tiogradig skala;4
+movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Den enfaldige mördaren (1982);7,5;Utvandrarna (1971);8.0;tiogradig skala;4
 movies;Vilken film är äldst av {alt1} och {alt2}?;Sällskapsresan;1980;Göta Kanal;1981;årtal;3
 movies;Vilken film är äldst av {alt1} och {alt2}?;Ronja Rövardotter;1984;Mitt liv som hund;1985;årtal;3
 movies;Vilken film är äldst av {alt1} och {alt2}?;Pippi Långstrump på de sju haven;1970;Emil i Lönneberga;1971;årtal;2
@@ -41,10 +41,11 @@ movies;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;Tillsammans
 movies;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;Mitt liv som hund;855000;Ronja Rövardotter;1450000;besökare;3
 movies;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;Svensson Svensson – Filmen;950000;Göta Kanal 2;710000;besökare;2
 movies;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;En man som heter Ove;1789000;Hundraåringen som klev ut genom fönstret och försvann;1630000;besökare;4
-svensk_tv;Vilket program hade flest tittare 2023, {alt1} eller {alt2}?;Melodifestivalen;3000000;Allsång på Skansen;2500000;antal tittare;2
-svensk_musik;Vilken låt låg flest veckor på Svensktoppen, {alt1} eller {alt2}?;Främling;40;Öppna din dörr;35;veckor;3
-svensk_sport;Vilken svensk idrottare har vunnit flest OS-medaljer, {alt1} eller {alt2}?;Björn Borg;2;Gunde Svan;3;OS-medaljer;3
-svensk_litteratur;Vilken bok har sålt flest exemplar, {alt1} eller {alt2}?;Pippi Långstrump;2000000;Utvandrarna;1500000;exemplar;2
-svenska_företag;Vilket företag grundades först, {alt1} eller {alt2}?;IKEA;1943;H&M;1947;år;2
-svensk_geografi;Vilken svensk stad har flest invånare 2023, {alt1} eller {alt2}?;Göteborg;600000;Malmö;350000;invånare;2
-svenska_uppfinningar;Vilken uppfinning kom först, {alt1} eller {alt2}?;Tändstickan;1855;Glödlampan;1879;år;3
+tv;Vilket program hade flest tittare 2023, {alt1} eller {alt2}?;Melodifestivalen;3000000;Allsång på Skansen;2500000;antal tittare;2
+music;Vilken låt låg flest veckor på Svensktoppen, {alt1} eller {alt2}?;Främling;40;Öppna din dörr;35;veckor;3
+sports;Vilken svensk idrottare har vunnit flest OS-medaljer, {alt1} eller {alt2}?;Björn Borg;2;Gunde Svan;3;OS-medaljer;3
+litterature;Vilken bok har sålt flest exemplar, {alt1} eller {alt2}?;Pippi Långstrump;2000000;Utvandrarna;1500000;exemplar;2
+business;Vilket företag grundades först, {alt1} eller {alt2}?;IKEA;1943;H&M;1947;år;2
+geography;Vilken svensk stad har flest invånare 2023, {alt1} eller {alt2}?;Göteborg;600000;Malmö;350000;invånare;2
+inventions;Vilken uppfinning kom först, {alt1} eller {alt2}?;Tändstickan;1855;Glödlampan;1879;år;3
+music;Vem fick bäst betalt av {alt1} när han sålde 50% av sin katalog 2021, eller {alt2} när hon sålde en majoritetsandel av sin katalog 2020?;Niel Young;150;Stevie Nicks;100;miljoner US$;4
