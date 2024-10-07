@@ -1,52 +1,52 @@
 ﻿kategori;jämförelsefråga;alt1;alt1_mängd;alt2;alt2_mängd;enhet;svårighetsgrad
-music;Vilken svensk artist har sålt flest album genom tiderna, {alt1} eller {alt2}?;ABBA;400000000;Roxette;75000000;album;2
-history;Vilken svensk kung abdikerade först, {alt1} eller {alt2}?;Gustav Vasa;1560;Karl XII;1718;år;3
-food;Vilken dryck hade störst årlig konsumtion per capita i Sverige 2023, {alt1} eller {alt2}?;kaffe;3200;mjölk;2500;gram;2
-history;Vilken händelse inträffade först, {alt1} eller {alt2}?;Stockholms blodbad;1520;Gustav Vasas kröning;1523;år;4
-food;Vilken svensk maträtt introducerades först, {alt1} eller {alt2}?;surströmming;1540;köttbullar;1730;årtal;3
-history;Vilken nordisk stad grundades först, {alt1} eller {alt2}?;Oslo;1000;Reykjavik;800;år;3
-food;Vilket land har flest Michelin-stjärnor i Norden, {alt1} eller {alt2}?;danmark;27;sverige;25;stjärnor;3
-music;Vilken svensk artist hade flest Spotify-streams 2023, {alt1} eller {alt2}?;Veronica Maggio;1000000000;Zara Larsson;1500000000;streams;2
-celebrities;Vem är längst av {alt1} och {alt2}?;Zlatan Ibrahimović;195;Cristiano Ronaldo;187;cm;2
-celebrities;Vem har vunnit flest Grammies, {alt1} eller {alt2} (2023)?;Beyoncé;32;Taylor Swift;12;vinster;3
-celebrities;Vem har flest Oscar-nomineringar, {alt1} eller {alt2} (2023)?;Meryl Streep;21;Katharine Hepburn;12;nomineringar;2
-celebrities;Vem är äldst av {alt1} och {alt2}?;Elon Musk;1971;Jeff Bezos;1964;födelseår;2
+musik;Vilken svensk artist har sålt flest album genom tiderna, {alt1} eller {alt2}?;ABBA;400000000;Roxette;75000000;album;2
+historia;Vilken svensk kung abdikerade först, {alt1} eller {alt2}?;Gustav Vasa;1560;Karl XII;1718;år;3
+mat;Vilken dryck hade störst årlig konsumtion per capita i Sverige 2023, {alt1} eller {alt2}?;kaffe;3200;mjölk;2500;gram;2
+historia;Vilken händelse inträffade först, {alt1} eller {alt2}?;Stockholms blodbad;1520;Gustav Vasas kröning;1523;år;4
+mat;Vilken svensk maträtt introducerades först, {alt1} eller {alt2}?;surströmming;1540;köttbullar;1730;årtal;3
+historia;Vilken nordisk stad grundades först, {alt1} eller {alt2}?;Oslo;1000;Reykjavik;800;år;3
+mat;Vilket land har flest Michelin-stjärnor i Norden, {alt1} eller {alt2}?;danmark;27;sverige;25;stjärnor;3
+musik;Vilken svensk artist hade flest Spotify-streams 2023, {alt1} eller {alt2}?;Veronica Maggio;1000000000;Zara Larsson;1500000000;streams;2
+kändisar;Vem är längst av {alt1} och {alt2}?;Zlatan Ibrahimović;195;Cristiano Ronaldo;187;cm;2
+kändisar;Vem har vunnit flest Grammies, {alt1} eller {alt2} (2023)?;Beyoncé;32;Taylor Swift;12;vinster;3
+kändisar;Vem har flest Oscar-nomineringar, {alt1} eller {alt2} (2023)?;Meryl Streep;21;Katharine Hepburn;12;nomineringar;2
+kändisar;Vem är äldst av {alt1} och {alt2}?;Elon Musk;1971;Jeff Bezos;1964;födelseår;2
 anatomi;Vilket organ väger mest av {alt1} och {alt2}?;hjärnan;1400;lever;1500;gram;2
 anatomi;Vilket organ har störst volym av {alt1} och {alt2}?;lungor;5000;hjärta;250;ml;2
 anatomi;Vilket organ väger mest av {alt1} och {alt2}?;njure;150;mjälte;200;gram;2
 anatomi;Vilket organ har störst yta av {alt1} och {alt2}?;tarmarna;30000;lever;6000;cm^2;3
 anatomi;Vilket organ har flest blodkärl av {alt1} och {alt2}?;lever;30000;hjärta;1000;kärl;3
-celebrities;Vem är äldst av {alt1} och {alt2}?;Håkan Hellström;1974;Oskar Linnros;1982;födelseår;2
-celebrities;Vem är äldst av {alt1} och {alt2}?;Zara Larsson;1997;Molly Sandén;1992;födelseår;2
-celebrities;Vem är äldst av {alt1} och {alt2}?;Greta Thunberg;2003;Frida Gustavsson;1993;födelseår;2
-celebrities;Vem är äldst av {alt1} och {alt2}?;Alexander Skarsgård;1976;Bill Skarsgård;1990;födelseår;2
-celebrities;Vem är äldst av {alt1} och {alt2}?;Mark Levengood;1971;Kalle Moraeus;1970;födelseår;2
-cars;Vilken bil kunde fås i flest färger 2023, {alt1} eller {alt2}?;Volvo XC90;12;Polestar 2;6;antal färger;2
-cars;Vilken bil vägde mest 2023, {alt1} eller {alt2}?;Tesla Model X;2469;Audi e-tron;2565;gram;2
-cars;Vilken bil fick dra tyngst 2023, {alt1} eller {alt2}?;Volvo V90;2400;BMW X5;2700;gram;2
-cars;Vilken bil hade störst bagagerum 2023, {alt1} eller {alt2}?;Kia Sorento;813;Volkswagen ID.4;543;liter;2
-cars;Vilken bil förbrukar färst kWh per mil, {alt1} eller {alt2} (2023)?;Tesla Model 3;16;Nissan Leaf;18;kWh per 10 mil;2
-movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Tillsammans (2000);7,5;Fucking Åmål (1998);7.6;tiogradig skala;3
-movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;En man som heter Ove (2015);7,7;Så som i himmelen (2004);7.5;tiogradig skala;3
-movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Jalla! Jalla! (2000);6,9;Kopps (2003);6.7;tiogradig skala;3
-movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Midsommar (2019);7,1;Låt den rätte komma in (2008);7.9;tiogradig skala;4
-movies;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Den enfaldige mördaren (1982);7,5;Utvandrarna (1971);8.0;tiogradig skala;4
-movies;Vilken film är äldst av {alt1} och {alt2}?;Sällskapsresan;1980;Göta Kanal;1981;årtal;3
-movies;Vilken film är äldst av {alt1} och {alt2}?;Ronja Rövardotter;1984;Mitt liv som hund;1985;årtal;3
-movies;Vilken film är äldst av {alt1} och {alt2}?;Pippi Långstrump på de sju haven;1970;Emil i Lönneberga;1971;årtal;2
-movies;Vilken film är äldst av {alt1} och {alt2}?;Mannen på taket;1976;Jönssonligan får guldfeber;1984;årtal;4
-movies;Vilken film är äldst av {alt1} och {alt2}?;Män som hatar kvinnor;2009;Låt den rätte komma in;2008;årtal;2
-movies;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;Sällskapsresan;2345000;Jönssonligan och Dynamit-Harry;1620000;besökare;3
-movies;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;Tillsammans;965000;Så som i himmelen;1143000;besökare;2
-movies;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;Mitt liv som hund;855000;Ronja Rövardotter;1450000;besökare;3
-movies;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;Svensson Svensson – Filmen;950000;Göta Kanal 2;710000;besökare;2
-movies;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;En man som heter Ove;1789000;Hundraåringen som klev ut genom fönstret och försvann;1630000;besökare;4
+kändisar;Vem är äldst av {alt1} och {alt2}?;Håkan Hellström;1974;Oskar Linnros;1982;födelseår;2
+kändisar;Vem är äldst av {alt1} och {alt2}?;Zara Larsson;1997;Molly Sandén;1992;födelseår;2
+kändisar;Vem är äldst av {alt1} och {alt2}?;Greta Thunberg;2003;Frida Gustavsson;1993;födelseår;2
+kändisar;Vem är äldst av {alt1} och {alt2}?;Alexander Skarsgård;1976;Bill Skarsgård;1990;födelseår;2
+kändisar;Vem är äldst av {alt1} och {alt2}?;Mark Levengood;1971;Kalle Moraeus;1970;födelseår;2
+bilar;Vilken bil kunde fås i flest färger 2023, {alt1} eller {alt2}?;Volvo XC90;12;Polestar 2;6;antal färger;2
+bilar;Vilken bil vägde mest 2023, {alt1} eller {alt2}?;Tesla Model X;2469;Audi e-tron;2565;gram;2
+bilar;Vilken bil fick dra tyngst 2023, {alt1} eller {alt2}?;Volvo V90;2400;BMW X5;2700;gram;2
+bilar;Vilken bil hade störst bagagerum 2023, {alt1} eller {alt2}?;Kia Sorento;813;Volkswagen ID.4;543;liter;2
+bilar;Vilken bil förbrukar färst kWh per mil, {alt1} eller {alt2} (2023)?;Tesla Model 3;16;Nissan Leaf;18;kWh per 10 mil;2
+film;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Tillsammans (2000);7,5;Fucking Åmål (1998);7.6;tiogradig skala;3
+film;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;En man som heter Ove (2015);7,7;Så som i himmelen (2004);7.5;tiogradig skala;3
+film;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Jalla! Jalla! (2000);6,9;Kopps (2003);6.7;tiogradig skala;3
+film;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Midsommar (2019);7,1;Låt den rätte komma in (2008);7.9;tiogradig skala;4
+film;Vilken film har högst IMDB-betyg, {alt1} eller {alt2}?;Den enfaldige mördaren (1982);7,5;Utvandrarna (1971);8.0;tiogradig skala;4
+film;Vilken film är äldst av {alt1} och {alt2}?;Sällskapsresan;1980;Göta Kanal;1981;årtal;3
+film;Vilken film är äldst av {alt1} och {alt2}?;Ronja Rövardotter;1984;Mitt liv som hund;1985;årtal;3
+film;Vilken film är äldst av {alt1} och {alt2}?;Pippi Långstrump på de sju haven;1970;Emil i Lönneberga;1971;årtal;2
+film;Vilken film är äldst av {alt1} och {alt2}?;Mannen på taket;1976;Jönssonligan får guldfeber;1984;årtal;4
+film;Vilken film är äldst av {alt1} och {alt2}?;Män som hatar kvinnor;2009;Låt den rätte komma in;2008;årtal;2
+film;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;Sällskapsresan;2345000;Jönssonligan och Dynamit-Harry;1620000;besökare;3
+film;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;Tillsammans;965000;Så som i himmelen;1143000;besökare;2
+film;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;Mitt liv som hund;855000;Ronja Rövardotter;1450000;besökare;3
+film;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;Svensson Svensson – Filmen;950000;Göta Kanal 2;710000;besökare;2
+film;Vilken film har haft flest biobesökare, {alt1} eller {alt2}?;En man som heter Ove;1789000;Hundraåringen som klev ut genom fönstret och försvann;1630000;besökare;4
 tv;Vilket program hade flest tittare 2023, {alt1} eller {alt2}?;Melodifestivalen;3000000;Allsång på Skansen;2500000;antal tittare;2
-music;Vilken låt låg flest veckor på Svensktoppen, {alt1} eller {alt2}?;Främling;40;Öppna din dörr;35;veckor;3
-sports;Vilken svensk idrottare har vunnit flest OS-medaljer, {alt1} eller {alt2}?;Björn Borg;2;Gunde Svan;3;OS-medaljer;3
-litterature;Vilken bok har sålt flest exemplar, {alt1} eller {alt2}?;Pippi Långstrump;2000000;Utvandrarna;1500000;exemplar;2
-business;Vilket företag grundades först, {alt1} eller {alt2}?;IKEA;1943;H&M;1947;år;2
-geography;Vilken svensk stad har flest invånare 2023, {alt1} eller {alt2}?;Göteborg;600000;Malmö;350000;invånare;2
-inventions;Vilken uppfinning kom först, {alt1} eller {alt2}?;Tändstickan;1855;Glödlampan;1879;år;3
-music;Vem fick bäst betalt av {alt1} när han sålde 50% av sin katalog 2021, eller {alt2} när hon sålde en majoritetsandel av sin katalog 2020?;Niel Young;150;Stevie Nicks;100;miljoner US$;4
+musik;Vilken låt låg flest veckor på Svensktoppen, {alt1} eller {alt2}?;Främling;40;Öppna din dörr;35;veckor;3
+sport;Vilken svensk idrottare har vunnit flest OS-medaljer, {alt1} eller {alt2}?;Björn Borg;2;Gunde Svan;3;OS-medaljer;3
+litteratur;Vilken bok har sålt flest exemplar, {alt1} eller {alt2}?;Pippi Långstrump;2000000;Utvandrarna;1500000;exemplar;2
+näringsliv;Vilket företag grundades först, {alt1} eller {alt2}?;IKEA;1943;H&M;1947;år;2
+geografi;Vilken svensk stad har flest invånare 2023, {alt1} eller {alt2}?;Göteborg;600000;Malmö;350000;invånare;2
+uppfinningar;Vilken uppfinning kom först, {alt1} eller {alt2}?;Tändstickan;1855;Glödlampan;1879;år;3
+musik;Vem fick bäst betalt av {alt1} när han sålde 50% av sin katalog 2021, eller {alt2} när hon sålde en majoritetsandel av sin katalog 2020?;Niel Young;150;Stevie Nicks;100;miljoner US$;4
 mix;Vilka är flest av de {alt1} och ringarna I {alt2}s logotyp?;olympiska ringarna;5;Audi;4;antal;2
