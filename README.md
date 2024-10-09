@@ -1,4 +1,4 @@
-# kvissss.games
+# kviss.games
 watch this space!
 
 ## License
