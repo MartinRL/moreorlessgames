@@ -1,4 +1,4 @@
-﻿namespace MoreOrLessGames.Spel;
+﻿namespace kviss.games.Spel.MerEllerMindre.Omgång;
 
 using Händelser = IReadOnlyCollection<IHändelse>;
 

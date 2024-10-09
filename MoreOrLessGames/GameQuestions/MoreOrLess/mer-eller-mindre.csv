@@ -1,6 +1,0 @@
-	gender		comparison_question	alt1	alt1_amount	alt1_source	alt2	alt2_amount	alt2_source	unit	comparison_text	difficulty	category	info
-vilke	n	bil	väger mest	VW ID.4 Pro	2049	https://www.automoli.com/sv/vehicles/volkswagen/id.4/id.4-7940	BMW iX3	2185	https://www.automoli.com/sv/vehicles/bmw/ix3/ix3-g08-facelift-2021-8530	kg	är tyngre	5	bilar	Standardutförande. Årsmodell 2024.
-vilke	n	bil	har störst bagageutrymme	VW Touareg 	697	https://www.automoli.com/sv/vehicles/volkswagen/touareg/touareg-ii-7p-facelift-2014-4326	VW Up!	251	https://www.automoli.com/sv/vehicles/volkswagen/up!/up!-3937	l	har större bagageutrymme	2	bilar	Samtliga säten uppfällda. Årsmodell 2014.
-vilke	t	land	har flest invånare	Sverige	10551707	https://sv.wikipedia.org/wiki/Sverige	Danmark	5 941 388	https://sv.wikipedia.org/wiki/Danmark		har fler invånare	1	geografi	Vid årets slut 2023.
-vilke	n	stad	har flest invånare	Aarhus (Danmark)	367095	https://da.wikipedia.org/wiki/Aarhus	Malmö (Sverige)	363693	https://sv.wikipedia.org/wiki/Malm%C3%B6		har fler invånare	5	geografi	Kommunen 2024.
-vilke	n	film	har högst IMDB-betyg	Jönssonligan får guldfeber (1984)	6,3	https://www.imdb.com/title/tt0087527/	Mannen som slutade röka (1972)	6,5	https://www.imdb.com/title/tt0068916/			5	film	IMDB oktober 2024.

@@ -1,4 +1,4 @@
-namespace MoreOrLessGames.Data;
+namespace kviss.games.Data;
 
 public class WeatherForecast
 {

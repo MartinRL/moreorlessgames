@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using MoreOrLessGames.Data;
+using kviss.games.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
