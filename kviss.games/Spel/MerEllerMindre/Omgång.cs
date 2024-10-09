@@ -3,7 +3,6 @@
 using Händelser = IReadOnlyCollection<IHändelse>;
 using static System.Guid;
 using Frågor = ISet<Fråga>;
-using Microsoft.Extensions.Logging;
 
 public record Spelare(string Namn);
 
@@ -11,18 +10,18 @@ public record Fråga(string Kategori, string Jämförelse, string Enhet, string 
 
 // händelser
 public interface IHändelse { } // used to mimic a discriminated union
-public record Skapad : IHändelse
+public record Skapad(Guid Id, Spelare Spelmästare, Frågor Frågor) : IHändelse;
+
+// kommandon
+public interface IKommando { }
+public record Skapa : IKommando
 {
     public Guid Id { get; init; } = NewGuid();
     public Spelare Spelmästare { get; init; }
     public Frågor Frågor { get; init; }
 
-    public Skapad(Spelare spelmästare, Frågor frågor) { Spelmästare = spelmästare; Frågor = frågor; }
+    public Skapa(Spelare spelmästare, Frågor frågor) { Spelmästare = spelmästare; Frågor = frågor; }
 }
-
-// kommandon
-public interface IKommando { }
-public record Skapa(Spelare Spelmästare, Frågor Frågor /* antal frågor = omgångens längd */ ) : IKommando;
 
 // vyer
 public interface IVy { }
@@ -42,7 +41,7 @@ public static class Beslutare
             _ => throw new InvalidOperationException()
         };
     private static Händelser Skapa(Skapa k) =>
-        new Skapad(k.Spelmästare, k.Frågor).ToArray();
+        new Skapad(k.Id, k.Spelmästare, k.Frågor).ToArray();
 }
 
 // hjälpfunktioner
