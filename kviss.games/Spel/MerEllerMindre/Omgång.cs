@@ -11,18 +11,11 @@ public record Startad(ushort Id, Spelare Spelmästare, Frågor Frågor) : IHänd
 
 // kommandon
 public interface IKommando { }
-public record Starta(Spelare Spelmästare, Frågor Frågor) : IKommando;
+public record Starta(Spelare Spelmästare, Frågor Frågor /* antal frågor = omgångens längd */ ) : IKommando;
 
 // vyer
 public interface IVy { }
 
-public record Tillstånd(decimal Balance, bool IsClosed)
-{
-    public static readonly Tillstånd Initialt = new(0, false);
-}
+public record Tillstånd(decimal Balance, bool ÄrStartad, bool ÄrAvslutad);
 
-public record Spelare(byte id, string name);
-
-public static class MerEllerMindre
-{
-}
+public record Spelare(string Namn);
