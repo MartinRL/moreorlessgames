@@ -1,7 +1,7 @@
 ﻿namespace kviss.games.Spel.MerEllerMindre.Omgång;
 
 using Händelser = IReadOnlyCollection<IHändelse>;
-using static System.Guid;
+using static SystemGuid;
 using Frågor = ISet<Fråga>;
 
 public record Spelare(string Namn);
@@ -44,9 +44,14 @@ public static class Beslutare
         new Skapad(k.Id, k.Spelmästare, k.Frågor).ToArray();
 }
 
-// hjälpfunktioner
+// hjälpare
 
 public static class Extensions
 {
     public static Händelser ToArray(this IHändelse h) => [h];
+}
+
+public static class SystemGuid
+{
+    public static Func<Guid> NewGuid = Guid.NewGuid;
 }
