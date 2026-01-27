@@ -1,4 +1,6 @@
 <Solution>
-  <Folder Name="/research/" />
+  <Folder Name="/research/">
+    <File Path="research\htmx-vs-blazor-server.md" />
+  </Folder>
   <Project Path="kvissig.se\kvissig.se.csproj" />
 </Solution>
